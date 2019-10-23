@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "File added"
+
+git push -u origin master
+
+git status
+
+git pull ------>>> Get from the git
